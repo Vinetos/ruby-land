@@ -1,3 +1,3 @@
 ## Welcome to a groundbreaking Ruby course.
 
-* This course is intended to developers which already know the basics of programmation
+* This course is intended for developers who already know the basics of programmation
