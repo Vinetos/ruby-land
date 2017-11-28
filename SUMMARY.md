@@ -1,2 +1,2 @@
 # Summary
-[Chapter 0](INTRODUCTION.md)
+* [Chapter 0](INTRODUCTION.md)
