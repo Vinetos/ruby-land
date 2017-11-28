@@ -1,3 +1,2 @@
 # Summary
-## Introduction
-* [Global introduction](README.md)
+[Global introduction](README.md)
