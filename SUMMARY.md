@@ -1,2 +1,2 @@
 # Summary
-[Global introduction](README.md)
+[Chapter 0](INTRODUCTION.md)
